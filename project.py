@@ -1,19 +1,3 @@
-"""
-Project Name: Inventory Management System
-
-Name: Samet
-
-GitHub Username: ceSamet
-
-edX Username: sametaydin
-
-City: İstanbul, Türkiye
-
-Date: 2024-03-19
-
-"""
-
-
 from json import load, dump
 from os import system, execl
 import sys
