@@ -1,7 +1,7 @@
 # Inventory Management System
 This project is a comprehensive inventory management system implemented in Python, designed to facilitate efficient management of products, user authentication, and essential CRUD (Create, Read, Update, Delete) operations.
 
-#### Video Demo
+#### Video
 URL: https://www.youtube.com/watch?v=8n2_2vdgfD0
 
 ## Features
