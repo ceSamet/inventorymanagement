@@ -1,0 +1,42 @@
+[
+    {
+        "product code": "00001",
+        "name": "computer",
+        "price": "2000",
+        "tax": "5",
+        "stock": "95",
+        "alert": "20"
+    },
+    {
+        "product code": "00002",
+        "name": "mouse",
+        "price": 25,
+        "tax": 5,
+        "stock": "88",
+        "alert": 20
+    },
+    {
+        "product code": "00003",
+        "name": "Smartphone",
+        "price": 1000,
+        "tax": 5,
+        "stock": 10,
+        "alert": 20
+    },
+    {
+        "product code": "00004",
+        "name": "keyboard",
+        "price": 20,
+        "tax": 5,
+        "stock": 100,
+        "alert": 20
+    },
+    {
+        "product code": "00005",
+        "name": "pen",
+        "price": 5,
+        "tax": 5,
+        "stock": "95",
+        "alert": 20
+    }
+]
